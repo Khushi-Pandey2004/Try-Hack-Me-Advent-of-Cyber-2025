@@ -1,0 +1,4 @@
+Challenge 3 :
+ls 
+ls cd challenges/
+cat welcome.txt
