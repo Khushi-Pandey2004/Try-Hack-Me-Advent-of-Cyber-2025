@@ -1,0 +1,8 @@
+for question 1:
+aws sts get-caller-identity
+
+for question 2:
+aws iam list-users
+aws iam list-user-policies --user-name sir.carrotbane
+
+

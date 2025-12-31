@@ -1,0 +1,19 @@
+step 1)
+cd Desktop/
+ubuntu@tryhackme:~/Desktop$
+
+step 2)
+file flag.pdf
+flag.pdf: PDF document, version 1.7, 1 page(s)
+
+step 3)
+file flag.zip
+flag.zip: Zip archive data, at least v2.0 to extract, compression method=AES Encrypted
+
+step 4)
+pdfcrack -f flag.pdf -w /usr/share/wordlists/rockyou.txt 
+ 
+step 5)
+john --wordlist=/usr/share/wordlists/rockyou.txt ziphash.txt
+
+

