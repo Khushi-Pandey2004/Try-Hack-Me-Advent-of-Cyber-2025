@@ -4,7 +4,7 @@ This repository contains my work from Advent of Cyber 2025, a 24-day cybersecuri
 
 I completed all 24 challenges, documenting my hands-on learning throughout the event.
 
-📂 Repository Contents
+## 📂 Repository Contents
 
 📁 Each Day / Room as a separate folder
 
@@ -14,10 +14,7 @@ I completed all 24 challenges, documenting my hands-on learning throughout the e
 
 💻 Commands used during challenges
 
-This repository currently serves as a raw documentation dump of my work.
-Detailed explanations and refined documentation will be added later.
-
-🧠 Focus Areas
+## 🧠 Focus Areas
 
 Linux & Bash fundamentals
 
@@ -33,7 +30,7 @@ CTF-style problem solving
 
 All activities were performed in legal, controlled lab environments.
 
-🛠️ Platform & Tools
+## 🛠️ Platform & Tools
 
 TryHackMe
 
@@ -43,14 +40,14 @@ Bash
 
 Standard Linux security tools
 
-📜 Status
+## 📜 Status
 
 ✅ Advent of Cyber 2025 – Completed
 📅 December 2025
 
 Further cleanup, explanations, and structured READMEs per challenge are planned.
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This repository is intended strictly for educational purposes.
 No real-world systems were targeted.
